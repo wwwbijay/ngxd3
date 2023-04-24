@@ -1,6 +1,8 @@
 # Using Data Driven Documents(D3.js) in Angular projects
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
+
+This project demonstrates usage of D3.js library in angular projects.
 
 ## Development server
 
