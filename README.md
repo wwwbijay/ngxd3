@@ -1,4 +1,4 @@
-# AngularD3
+# Using Data Driven Documents(D3.js) in Angular projects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
